@@ -26,7 +26,9 @@ This project implements a Fuzzy Logic-based decision support system for fish far
 * NumPy
 * Google Colab
 
-## Author
+## Contributors
 
-Surya Kamal
-Informatics Student - Universitas Singaperbangsa Karawang
+* Surya Kamal
+* Rafaisya Dwi Adrianto
+* M. Ilham Syahputra
+* M. Firdaus Annafiah
